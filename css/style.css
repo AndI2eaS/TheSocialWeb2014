@@ -1,0 +1,81 @@
+.header
+{
+	text-align:center;
+	color:#4479BA;
+	font-weight:bold;
+	font-size:60;
+}
+
+h1
+{
+	font-size:15;
+	font-weight:normal;
+	color:#999999;
+}
+			
+.main
+{
+	text-align:center;
+}
+
+th
+{
+	background-color: #4479BA;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 20;
+}
+
+.new_main
+{
+	text-align: center;
+}
+
+.new_main a
+{
+	display: inline-block;
+}
+
+.new_main table, td
+{
+	text-align: justify;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #4479BA;
+	margin-left:auto; 
+    margin-right:auto;
+}
+
+.footer
+{
+	text-align:center;
+	color: #999999;
+	font-size:14;
+}
+
+hr
+{
+	width: 500px;
+}
+
+.keyword
+{
+	background: #4479BA;
+    color: #FFF;
+	border: none;
+}
+
+.send
+{
+	font-weight:bold;
+	background: #fff;
+    color: #4479BA;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #4479BA;
+}
+
+input
+{
+	text-align:center;
+}
